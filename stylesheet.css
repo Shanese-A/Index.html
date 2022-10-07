@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(94, 204, 238);
+    font-family: Georgia, 'Times New Roman', Times, serif   
+}
+
+.name, h1, .resume{
+    text-align: center;
+}
+img{
+    float: left;
+    width: 100px;
+    border-radius: 20px;
+}
